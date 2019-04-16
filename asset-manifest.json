@@ -1,11 +1,13 @@
 {
-  "main.js": "/seasons-app/static/js/main.afc7e0b3.chunk.js",
-  "main.js.map": "/seasons-app/static/js/main.afc7e0b3.chunk.js.map",
+  "main.css": "/seasons-app/static/css/main.ae7dd3cd.chunk.css",
+  "main.js": "/seasons-app/static/js/main.6a9f813e.chunk.js",
+  "main.js.map": "/seasons-app/static/js/main.6a9f813e.chunk.js.map",
   "runtime~main.js": "/seasons-app/static/js/runtime~main.bbf91132.js",
   "runtime~main.js.map": "/seasons-app/static/js/runtime~main.bbf91132.js.map",
-  "static/js/2.2050718e.chunk.js": "/seasons-app/static/js/2.2050718e.chunk.js",
-  "static/js/2.2050718e.chunk.js.map": "/seasons-app/static/js/2.2050718e.chunk.js.map",
+  "static/js/2.d6a534e5.chunk.js": "/seasons-app/static/js/2.d6a534e5.chunk.js",
+  "static/js/2.d6a534e5.chunk.js.map": "/seasons-app/static/js/2.d6a534e5.chunk.js.map",
   "index.html": "/seasons-app/index.html",
-  "precache-manifest.af18e1760af52eba851a23ab663ae086.js": "/seasons-app/precache-manifest.af18e1760af52eba851a23ab663ae086.js",
-  "service-worker.js": "/seasons-app/service-worker.js"
+  "precache-manifest.0c2c86771af8fdabd36b08744d1c9d47.js": "/seasons-app/precache-manifest.0c2c86771af8fdabd36b08744d1c9d47.js",
+  "service-worker.js": "/seasons-app/service-worker.js",
+  "static/css/main.ae7dd3cd.chunk.css.map": "/seasons-app/static/css/main.ae7dd3cd.chunk.css.map"
 }
